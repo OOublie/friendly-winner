@@ -156,6 +156,8 @@ DOMAIN-SUFFIX,zijieapi.com
 DOMAIN-SUFFIX,zijieimg.com
 DOMAIN-SUFFIX,zjbyte.com
 DOMAIN-SUFFIX,zjcdn.com
+DOMAIN-KEYWORD,douyin
+DOMAIN-KEYWORD,doubao
 
 # CCTV
 DOMAIN-SUFFIX,cctv.com

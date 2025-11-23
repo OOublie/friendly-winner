@@ -13,6 +13,7 @@ DOMAIN,slscr.update.apple.com
 DOMAIN,appldnld.apple.com
 DOMAIN,mesu.apple.com
 DOMAIN,gdmf.apple.com
+DOMAIN,serverstatus.apple.com
 DOMAIN-SUFFIX,ai.com
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,mask-api.icloud.com

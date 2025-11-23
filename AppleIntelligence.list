@@ -8,7 +8,7 @@ DOMAIN-SUFFIX,smoot.apple.com
 DOMAIN-SUFFIX,siri.com
 DOMAIN-SUFFIX,guzzoni.apple.com
 DOMAIN-SUFFIX,siri.apple.com
-DOMAIN,gspe1-ssl.ls.apple.com
+DOMAIN-SUFFIX,ls.apple.com
 DOMAIN,slscr.update.apple.com
 DOMAIN,appldnld.apple.com
 DOMAIN,mesu.apple.com

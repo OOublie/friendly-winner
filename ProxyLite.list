@@ -33,3 +33,4 @@ IP-CIDR,208.67.220.220/32,no-resolve
 # 苹果专用代理
 DOMAIN,mask.icloud.com
 DOMAIN,mask-api.icloud.com
+DOMAIN,store.apple.com

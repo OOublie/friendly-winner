@@ -36,6 +36,8 @@ DOMAIN-SUFFIX,qhstatic.com
 DOMAIN-SUFFIX,qhupdate.com
 DOMAIN-SUFFIX,so.com
 
+# Tailscale
+DOMAIN-SUFFIX,tailscale.com
 
 # 58
 DOMAIN-SUFFIX,58.com

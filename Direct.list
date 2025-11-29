@@ -38,6 +38,8 @@ DOMAIN-SUFFIX,so.com
 
 # Tailscale
 DOMAIN-SUFFIX,tailscale.com
+DOMAIN-SUFFIX,tailscale.io
+DOMAIN-SUFFIX,ts.net
 
 # 58
 DOMAIN-SUFFIX,58.com

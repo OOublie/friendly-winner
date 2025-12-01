@@ -34,3 +34,6 @@ IP-CIDR,208.67.220.220/32,no-resolve
 DOMAIN,mask.icloud.com
 DOMAIN,mask-api.icloud.com
 DOMAIN-SUFFIX,store.apple.com
+
+# 微软个人数据存储
+DOMAIN,my.microsoftpersonalcontent.com

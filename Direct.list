@@ -141,8 +141,11 @@ DOMAIN-SUFFIX,netease.com
 DOMAIN-SUFFIX,ydstatic.com
 DOMAIN-SUFFIX,youdao.com
 
+#Bark
+DOMAIN,api.day.app
+
 #isgd
-http://is.gd/
+DOMAIN,is.gd
 
 #fzu
 DOMAIN-KEYWORD,fzu

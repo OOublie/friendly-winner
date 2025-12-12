@@ -10,11 +10,12 @@ DOMAIN-SUFFIX,bytedapm.com
 DOMAIN-SUFFIX,byteintlapi.com
 DOMAIN-SUFFIX,nianjiushiwodewenti.com
 DOMAIN-SUFFIX,ibyteimg.com
-
-
+DOMAIN,dola.com
+DOMAIN,frontier22-audio-ws-myb.dola.com
 
 IP-CIDR,26.239.1.89/24
 IP-CIDR,192.73.252.65/24
 IP-CIDR,43.160.156.69/24
 IP-CIDR,34.102.215.99/24
 IP-CIDR,192.73.252.65/24
+IP-CIDR,17.57.145.152/24

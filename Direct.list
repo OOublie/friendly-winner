@@ -149,3 +149,7 @@ DOMAIN,is.gd
 
 #fzu
 DOMAIN-KEYWORD,fzu
+
+#linux.do
+DOMAIN-SUFFIX,linux.do
+DOMAIN,linux.do

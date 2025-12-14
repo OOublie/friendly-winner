@@ -153,3 +153,4 @@ DOMAIN-KEYWORD,fzu
 #linux.do
 DOMAIN-SUFFIX,linux.do
 DOMAIN,linux.do
+IP-CIDR,198.18.1.117/24

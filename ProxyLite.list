@@ -37,3 +37,8 @@ DOMAIN-SUFFIX,store.apple.com
 
 # 微软个人数据存储
 DOMAIN,my.microsoftpersonalcontent.com
+
+#linux.do
+DOMAIN-SUFFIX,linux.do
+DOMAIN,linux.do
+IP-CIDR,198.18.1.117/24

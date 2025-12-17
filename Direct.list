@@ -153,3 +153,5 @@ DOMAIN-KEYWORD,fzu
 #雷鲸
 DOMAIN-SUFFIX,leijing.xyz
 
+#cloudflare
+DOMAIN,dash.cloudflare.com

@@ -42,3 +42,10 @@ DOMAIN,my.microsoftpersonalcontent.com
 DOMAIN-SUFFIX,linux.do
 DOMAIN,linux.do
 IP-CIDR,198.18.1.117/24
+
+#docker
+DOMAIN-SUFFIX,compose-spec.io
+DOMAIN-SUFFIX,docker.com
+DOMAIN-SUFFIX,docker.io
+DOMAIN-SUFFIX,dockerstatic.com
+DOMAIN,hub.docker.com

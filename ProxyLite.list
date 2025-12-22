@@ -49,6 +49,7 @@ DOMAIN-SUFFIX,docker.com
 DOMAIN-SUFFIX,docker.io
 DOMAIN-SUFFIX,dockerstatic.com
 DOMAIN,hub.docker.com
+DOMAIN-KEYWORD,docker
 
 #onlyfans
 DOMAIN-SUFFIX,onlyfans.com

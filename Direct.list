@@ -165,3 +165,5 @@ DOMAIN-KEYWORD,openlist
 
 #UA3F test
 DOMAIN,ua.233996.xyz
+DOMAIN,httpbin.org
+DOMAIN,ifconfig.me

@@ -51,6 +51,25 @@ DOMAIN-SUFFIX,dockerstatic.com
 DOMAIN,hub.docker.com
 DOMAIN-KEYWORD,docker
 DOMAIN-SUFFIX,pypi.org
+DOMAIN-SUFFIX,docker.com
+DOMAIN-SUFFIX,docker.io
+DOMAIN-SUFFIX,hub.docker.com
+DOMAIN-SUFFIX,pypi.org
+DOMAIN-SUFFIX,pypi.io
+DOMAIN-SUFFIX,python.org
+DOMAIN-SUFFIX,pythonhosted.org
+# Google Container Registry (Kubernetes 镜像常用于此)
+DOMAIN-SUFFIX,gcr.io
+DOMAIN-SUFFIX,k8s.io
+DOMAIN-SUFFIX,k8s.gcr.io
+DOMAIN-SUFFIX,registry.k8s.io
+
+# Red Hat Quay
+DOMAIN-SUFFIX,quay.io
+
+# GitHub Container Registry
+DOMAIN-SUFFIX,ghcr.io
+DOMAIN-SUFFIX,pkg.github.com
 
 #onlyfans
 DOMAIN-SUFFIX,onlyfans.com

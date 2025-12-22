@@ -50,6 +50,7 @@ DOMAIN-SUFFIX,docker.io
 DOMAIN-SUFFIX,dockerstatic.com
 DOMAIN,hub.docker.com
 DOMAIN-KEYWORD,docker
+DOMAIN-SUFFIX,pypi.org
 
 #onlyfans
 DOMAIN-SUFFIX,onlyfans.com

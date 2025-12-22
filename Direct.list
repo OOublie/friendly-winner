@@ -156,7 +156,9 @@ DOMAIN-SUFFIX,leijing.xyz
 #cloudflare
 DOMAIN,dash.cloudflare.com
 
-#7777878/skyrain
+#7777878/skyrain/325523/20267878
+DOMAIN-SUFFIX,325523.xyz
 DOMAIN-SUFFIX,7777878.xyz
 DOMAIN-SUFFIX,skyrain.xyz
 DOMAIN-SUFFIX,20267878.xyz
+DOMAIN-KEYWORD,openlist

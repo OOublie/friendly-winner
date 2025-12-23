@@ -75,3 +75,11 @@ DOMAIN-SUFFIX,pkg.github.com
 DOMAIN-SUFFIX,onlyfans.com
 DOMAIN-KEYWORD,onlyfans
 DOMAIN,static2.onlyfans.com
+
+#IMDb
+DOMAIN-KEYWORD,imdb
+
+DOMAIN-SUFFIX,boxofficemojo.com
+DOMAIN-SUFFIX,imdb.com
+DOMAIN-SUFFIX,imdb.to
+DOMAIN-SUFFIX,media-imdb.com

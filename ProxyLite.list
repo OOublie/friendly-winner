@@ -63,6 +63,11 @@ DOMAIN-SUFFIX,gcr.io
 DOMAIN-SUFFIX,k8s.io
 DOMAIN-SUFFIX,k8s.gcr.io
 DOMAIN-SUFFIX,registry.k8s.io
+#openwrt
+DOMAIN-SUFFIX,openwrt.org
+DOMAIN-KEYWORD,openwrt
+
+
 
 # Red Hat Quay
 DOMAIN-SUFFIX,quay.io

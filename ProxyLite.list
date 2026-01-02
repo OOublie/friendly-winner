@@ -66,7 +66,7 @@ DOMAIN-SUFFIX,registry.k8s.io
 #openwrt
 DOMAIN-SUFFIX,openwrt.org
 DOMAIN-KEYWORD,openwrt
-
+DOMAI,downloads.openwrt.org
 
 
 # Red Hat Quay

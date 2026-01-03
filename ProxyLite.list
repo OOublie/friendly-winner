@@ -88,6 +88,10 @@ DOMAIN-SUFFIX,imdb.com
 DOMAIN-SUFFIX,imdb.to
 DOMAIN-SUFFIX,media-imdb.com
 
+
+#kodi
+DOMAIN-SUFFIX,kodi.tv
+
 #DNS泄露检测
 DOMAIN,dnsleaktest.com
 DOMAIN,browserleaks.com

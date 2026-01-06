@@ -59,7 +59,7 @@ DOMAIN-SUFFIX,pypi.io
 DOMAIN-SUFFIX,python.org
 DOMAIN-SUFFIX,pythonhosted.org
 # Google Container Registry (Kubernetes 镜像常用于此)
-DOMAIN-SUFFIX,gcr.io
+DOMAIN-SUFFIX,gcr.iohttps://github.com/OOublie/friendly-winner/blob/main/ProxyLite.list
 DOMAIN-SUFFIX,k8s.io
 DOMAIN-SUFFIX,k8s.gcr.io
 DOMAIN-SUFFIX,registry.k8s.io
@@ -96,6 +96,4 @@ DOMAIN-SUFFIX,kodi.tv
 DOMAIN,dnsleaktest.com
 DOMAIN,browserleaks.com
 DOMAIN,ipleak.net
-
-DOMAIN-SUFFIX,ssm.fun
 

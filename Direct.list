@@ -168,6 +168,3 @@ DOMAIN-KEYWORD,openlist
 DOMAIN,ua.233996.xyz
 DOMAIN,httpbin.org
 DOMAIN,ifconfig.me
-
-#linux
-DOMAIN-SUFFIX,linux.do

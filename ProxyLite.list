@@ -88,6 +88,8 @@ DOMAIN-SUFFIX,imdb.com
 DOMAIN-SUFFIX,imdb.to
 DOMAIN-SUFFIX,media-imdb.com
 
+#Leijing
+DOMAIN-SUFFIX,leijing.xyz
 
 #kodi
 DOMAIN-SUFFIX,kodi.tv

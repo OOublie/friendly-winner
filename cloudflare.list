@@ -58,3 +58,4 @@ DOMAIN-SUFFIX,videodelivery.net
 DOMAIN-SUFFIX,warp.plus
 DOMAIN-SUFFIX,workers.dev
 DOMAIN,one.dash.cloudflare.com
+IP-CIDR,198.41.192.0/18

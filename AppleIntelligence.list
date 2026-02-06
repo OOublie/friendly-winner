@@ -23,8 +23,6 @@ DOMAIN-SUFFIX,appleid.apple.com
 DOMAIN-SUFFIX,auth0.com
 DOMAIN-SUFFIX,cdn.apple-cloudkit.com
 DOMAIN-SUFFIX,cdn.usefathom.com
-DOMAIN-SUFFIX,challenges.cloudflare.com
-DOMAIN-SUFFIX,chat.openai.com.cdn.cloudflare.net
 DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,deepl.com
 DOMAIN-SUFFIX,events.statsigapi.net

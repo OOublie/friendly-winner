@@ -302,3 +302,4 @@ DOMAIN,open.gtimg.cn
 DOMAIN,vv.video.qq.com
 IP-CIDR,43.163.178.76/32,no-resolve
 IP-CIDR,43.154.240.179/32,no-resolve
+IP-CIDR,43.154.240.99/32,no-resolve

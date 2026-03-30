@@ -300,3 +300,4 @@ DOMAIN,cgi.connect.qq.com
 DOMAIN,cgi.appsupport.qq.com
 DOMAIN,open.gtimg.cn
 DOMAIN,vv.video.qq.com
+IP-CIDR,43.163.178.76/32,no-resolve

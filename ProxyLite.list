@@ -143,3 +143,9 @@ DOMAIN-SUFFIX,api.huggingface.co
 
 #Apple books
 DOMAIN,books.itunes.apple.com
+DOMAIN,books-analytics-events.apple.com
+DOMAIN,amp-api.books.apple.com
+DOMAIN,client-api.itunes.apple.com
+DOMAIN,pancake.apple.com
+DOMAIN,sf-api-token-service.itunes.apple.com
+DOMAIN,client-api.itunes.apple.com

@@ -140,3 +140,6 @@ DOMAIN-SUFFIX,usercontent.huggingface.co
 DOMAIN-SUFFIX,spaces.huggingface.co
 DOMAIN-SUFFIX,docs.huggingface.co
 DOMAIN-SUFFIX,api.huggingface.co
+
+#Apple books
+DOMAIN,books.itunes.apple.com

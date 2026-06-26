@@ -125,3 +125,6 @@ DOMAIN,dav.mypikpak.com
 
 #aliyu
 IP-CIDR,47.251.75.19/32,no-resolve
+IP-CIDR,47.246.138.133/32,no-resolve
+IP-CIDR,155.102.130.244/32,no-resolve
+
